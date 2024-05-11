@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Test-repo",
+			"path": "../Test-repo"
+		}
+	],
+	"settings": {}
+}
